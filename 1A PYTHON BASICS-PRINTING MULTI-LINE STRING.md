@@ -29,6 +29,7 @@ print(string_single_quotes)
 print(string_double_quotes)
 ```
 ## OUTPUT
+<img width="923" height="382" alt="image" src="https://github.com/user-attachments/assets/c2185f10-e597-4b42-bd76-1168f2005507" />
 
 ## RESULT
-
+Thus the given program implemented and executed successfully.
