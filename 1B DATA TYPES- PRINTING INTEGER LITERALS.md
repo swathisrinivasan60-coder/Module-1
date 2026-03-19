@@ -25,5 +25,7 @@ print(num3)
 
 ```
 ## OUTPUT
+<img width="441" height="199" alt="image" src="https://github.com/user-attachments/assets/4891024d-2631-4ec2-aa77-64c906b14ed2" />
 
 ## RESULT
+Thus, the python program to print the given integer literals are done and verified successfully.
