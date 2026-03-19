@@ -30,5 +30,7 @@ print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 ```
 
 ## OUTPUT
+<img width="895" height="261" alt="image" src="https://github.com/user-attachments/assets/7ae2b3fd-49cc-42ee-bdaf-869663c3da96" />
 
 ## RESULT
+Thus the python program implemented and executed successfully
